@@ -1,1 +1,6 @@
 google.com, pub-5178091468942049, DIRECT, f08c47fec0942fa0
+target.my.com, 9696619, DIRECT
+bidswitch.net, 9696619, RESELLER
+appreciate.mobi, 9696619, DIRECT
+admixer.com, 9696619, RESELLER
+onetag.com, 59d216e971852f2, DIRECT
